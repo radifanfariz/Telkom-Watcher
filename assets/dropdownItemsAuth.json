@@ -1,0 +1,68 @@
+[
+  {
+    "code": "01",
+    "regional": "Regional-I",
+    "witel": "ACEH",
+    "unit": "alpha"
+  },
+  {
+    "code": "02",
+    "regional": "Regional-II",
+    "witel": "MEDAN",
+    "unit": "bravo"
+  },
+  {
+    "code": "03",
+    "regional": "Regional-III",
+    "witel": "SIANTAR",
+    "unit": "patroli"
+  },
+  {
+    "code": "04",
+    "regional": "Regional-IV",
+    "witel": "PADANG",
+    "unit": "recovery"
+  },
+  {
+    "code": "05",
+    "regional": "Regional-V",
+    "witel": "RIDAR",
+    "unit": null
+  },
+  {
+    "code": "06",
+    "regional": "Regional-VI",
+    "witel": "RIKEP",
+    "unit": null
+  },
+  {
+    "code": "07",
+    "regional": "Regional-VII",
+    "witel": "JAMBI",
+    "unit": null
+  },
+  {
+    "code": "08",
+    "regional": null,
+    "witel": "BENGKULU",
+    "unit": null
+  },
+  {
+    "code": "09",
+    "regional": null,
+    "witel": "SUMSEL",
+    "unit": null
+  },
+  {
+    "code": "10",
+    "regional": null,
+    "witel": "PKPINANG",
+    "unit": null
+  },
+  {
+    "code": "11",
+    "regional": null,
+    "witel": "LAMPUNG",
+    "unit": null
+  }
+]

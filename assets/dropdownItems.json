@@ -1,0 +1,14 @@
+{
+  "dropdown_item": {
+    "Head": [
+      "SKI"
+    ],
+    "Tail": [
+      "TBG"
+    ],
+    "All": [
+      "SKI",
+      "TBG"
+    ]
+  }
+}
