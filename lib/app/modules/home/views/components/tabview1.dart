@@ -635,7 +635,7 @@ class TabView1 extends GetView<HomeController> {
                   onSurface: Colors.white
               ),
               dialogBackgroundColor: Colors.grey
-          ), child: child as Widget)
+          ), child: child as Widget);
         }
     );
 

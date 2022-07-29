@@ -10,7 +10,7 @@ class LoginView extends GetView<AuthController> {
 
   final _passwordVisible = false.obs;
   DateFormat dateFormat = DateFormat("yyyy-MM-dd hh:mm");
-  late var endDate = DateTime(2022,7,20,7,5);
+  late var endDate = DateTime(2022,8,20,7,5);
 
   @override
   Widget build(BuildContext context) {
